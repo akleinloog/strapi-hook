@@ -1,0 +1,12 @@
+# Go compiled output
+strapi-hook
+strapi-hook.exe
+
+# MacOs files
+.DS_Store
+
+# Goland files
+.idea
+
+# Data
+data
